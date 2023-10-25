@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @manuhanu
 - 👀 I’m interested in statistics, finance
 - 🌱 I’m currently learning as much as i can
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me meh353@cornell.edu
 
 <!---
